@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell/runtime noise
+*.log
+*.tmp
+*.temp
+
+# Editor folders
+.vscode/
+.idea/
+
+# Local packaging/output folders
+dist/
+build/
+out/
